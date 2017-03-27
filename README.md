@@ -2,7 +2,7 @@
 
 This repository accompanies [*A Programmer’s Guide to ADO.NET in C#*](http://www.apress.com/9781893115392) by Mahesh Chand and Mike Gold (Apress, 2002).
 
-![Cover image](9781893115392.jpg)
+[comment]: #cover
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
